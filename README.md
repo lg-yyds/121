@@ -1,6 +1,6 @@
 # elm
 ## 拉库即用
 ```djun90
-ql repo https://github.com/djun90/elm.git "^ele" "" "USER|common|ql|sendNotify1"
+ql repo [https://github.com/djun90/elm.git](https://github.com/lg-yyds/121.git) "^ele" "" "USER|common|ql|sendNotify1"
 ```
-[![Page Views Count](https://badges.toozhao.com/badges/01HBA61YFEV5P7W533EQ0NH169/blue.svg)](https://badges.toozhao.com/stats/01HBA61YFEV5P7W533EQ0NH169 "Get your own page views count badge on badges.toozhao.com")
+
